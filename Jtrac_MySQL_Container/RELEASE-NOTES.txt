@@ -1,0 +1,8 @@
+Release Date: 
+Purpose: Automatic installation of MySQL Container
+Workload Version : 5.7.34
+
+Notes:
+    1. Provide the values in input.properties file
+    2. Host mount path will be created in /opt inthe name of container name
+	Ex /opt/mysql_container
